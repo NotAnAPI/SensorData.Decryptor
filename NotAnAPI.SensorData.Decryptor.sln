@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotAnAPI.SensorData.Decryptor", "NotAnAPI.SensorData.Decryptor.csproj", "{73E1BCE8-ADCC-4530-BCC6-2E1F11ECCA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E1BCE8-ADCC-4530-BCC6-2E1F11ECCA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E1BCE8-ADCC-4530-BCC6-2E1F11ECCA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E1BCE8-ADCC-4530-BCC6-2E1F11ECCA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E1BCE8-ADCC-4530-BCC6-2E1F11ECCA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829B6934-0C95-4317-BA13-5FC2E9893D1F}
+	EndGlobalSection
+EndGlobal
